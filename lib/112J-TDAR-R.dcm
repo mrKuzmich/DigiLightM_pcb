@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 112J-TDAR-R
+D Micro SD Socket Push-Push Type, top mount
+F https://sds.compel.ru/item-pdf/04106748b1d2c9285eaa335c34b51c16/ps/attend~112j-tdar-r.pdf
+$ENDCMP
+#
+$CMP 112J-TDAR-R-Micro_SD_Card
+D Micro SD Card Socket
+K connector SD microsd
+F http://katalog.we-online.de/em/datasheet/693072010801.pdf
+$ENDCMP
+#
+#End Doc Library

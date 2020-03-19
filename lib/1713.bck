@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1713
+D Audio IC Development Tools MAX9814 Electret Mic Amp Breakout
+F https://learn.adafruit.com/downloads/pdf/adafruit-agc-electret-microphone-amplifier-max9814.pdf
+$ENDCMP
+#
+#End Doc Library
