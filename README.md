@@ -6,3 +6,9 @@ DigiLight-M is a project of digital light organ with automat of light effects. T
 2. Added line-in and microphone input with electronic source selection;
 3. SD Card adapter replaced with direct connection of MicroSD Card;
 4. Redesigned PCB. 
+
+## Appearance
+
+## Schematic
+
+## Firmware
