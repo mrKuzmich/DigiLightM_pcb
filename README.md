@@ -8,6 +8,7 @@ DigiLight-M is a project of digital light organ with automat of light effects. T
 4. Redesigned PCB. 
 
 ## Appearance
+![Appearance](/out/appearance.png)
 
 ## Schematic
 [![Schematic](/out/scheme.png)](/out/scheme.pdf)
