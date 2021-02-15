@@ -10,6 +10,6 @@ DigiLight-M is a project of digital light organ with automat of light effects. T
 ## Appearance
 
 ## Schematic
-[Schematic](https://github.com/mrKuzmich/DigiLightM_pcb/blob/master/out/scheme.png)
+[![Schematic](/out/scheme.png)](/out/scheme.pdf)
 
 ## Firmware
