@@ -1,6 +1,6 @@
 (sym_lib_table
-  (lib (name quasar_speciall)(type Legacy)(uri /home/dmitry/Projects/QuasarHummingBird/quasar_pcb/quasar_speciall.lib)(options "")(descr ""))
-  (lib (name DigiLight-rescue)(type Legacy)(uri ${KIPRJMOD}/DigiLight-rescue.lib)(options "")(descr ""))
-  (lib (name 1713)(type Legacy)(uri ${KIPRJMOD}/lib/1713.lib)(options "")(descr ""))
-  (lib (name 112J-TDAR)(type Legacy)(uri ${KIPRJMOD}/lib/112J-TDAR-R.lib)(options "")(descr ""))
+  (lib (name "DigiLight-rescue")(type "KiCad")(uri "${KIPRJMOD}/DigiLight-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "1713")(type "KiCad")(uri "${KIPRJMOD}/lib/1713.kicad_sym")(options "")(descr ""))
+  (lib (name "112J-TDAR")(type "KiCad")(uri "${KIPRJMOD}/lib/112J-TDAR-R.kicad_sym")(options "")(descr ""))
+  (lib (name "Quasar_special")(type "KiCad")(uri "${KIPRJMOD}/lib/quasar_speciall.kicad_sym")(options "")(descr ""))
 )
