@@ -3,4 +3,5 @@
   (lib (name "1713")(type "KiCad")(uri "${KIPRJMOD}/lib/1713.kicad_sym")(options "")(descr ""))
   (lib (name "112J-TDAR")(type "KiCad")(uri "${KIPRJMOD}/lib/112J-TDAR-R.kicad_sym")(options "")(descr ""))
   (lib (name "Quasar_special")(type "KiCad")(uri "${KIPRJMOD}/lib/quasar_speciall.kicad_sym")(options "")(descr ""))
+  (lib (name "TypeC-31-M-17")(type "KiCad")(uri "${KIPRJMOD}/lib/TYPE-C-31-M-17.kicad_sym")(options "")(descr ""))
 )
